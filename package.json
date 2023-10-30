@@ -1,0 +1,16 @@
+{
+  "name": "@lz-asia/lz-constants",
+  "description": "",
+  "version": "0.1.0",
+  "keywords": [
+    "layerzero",
+    "lz"
+  ],
+  "homepage": "https://github.com/lz-asia/lz-constants#readme",
+  "bugs": "https://github.com/lz-asia/lz-constants/issues",
+  "license": "MIT",
+  "author": "LevX <team@levx.io>",
+  "files": [
+    "constants"
+  ]
+}
