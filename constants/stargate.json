@@ -46,5 +46,61 @@
     "arbitrum": "0x82CbeCF39bEe528B5476FE6d1550af59a9dB6Fc0",
     "optimism": "0xb69c8CBCD90A39D8D3d3ccf0a3E968511C3856A0",
     "fantom": null
+  },
+  "poolId": {
+    "ethereum": {
+      "usdc": 1,
+      "usdt": 2,
+      "dai": 3,
+      "frax": 7,
+      "usdd": 11,
+      "sgeth": 13,
+      "susd": 14,
+      "lusd": 15,
+      "mai": 16,
+      "metis": 17,
+      "metis.usdt": 19
+    },
+    "bsc": {
+      "usdt": 2,
+      "bsud": 5,
+      "usdd": 11,
+      "mai": 16,
+      "metis": 17,
+      "metis.usdt": 19
+    },
+    "avalanche": {
+      "usdc": 1,
+      "usdt": 2,
+      "frax": 7,
+      "mai": 16,
+      "metis.usdt": 19
+    },
+    "polygon": {
+      "usdc": 1,
+      "usdt": 2,
+      "dai": 3,
+      "mai": 16
+    },
+    "arbitrum": {
+      "usdc": 1,
+      "usdt": 2,
+      "frax": 7,
+      "sgeth": 13,
+      "lusd": 15,
+      "mai": 16
+    },
+    "optimism": {
+      "usdc": 1,
+      "dai": 3,
+      "frax": 7,
+      "sgeth": 13,
+      "susd": 14,
+      "lusd": 15,
+      "mai": 16
+    },
+    "fantom": {
+      "usdc": 21
+    }
   }
 }
