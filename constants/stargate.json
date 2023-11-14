@@ -47,6 +47,22 @@
     "optimism": "0xe3b53af74a4bf62ae5511055290838050bf764df",
     "fantom": "0x9d1b1669c73b033dfe47ae5a0164ab96df25b944"
   },
+  "composer": {
+    "goerli": "0x7C5B3F4865b41b9d2B6dE65fdfbB47af06AC41f0",
+    "bsc-testnet": "0xD8be91F6586BEDD5928C8E922632F01f1A7bE2AF",
+    "fuji": "0x7E78a87290227deAAFEB887eb926339F905eFBef",
+    "mumbai": "0x329AbD375ACc871817B1Ba5dc9c585BceBE4761A",
+    "arbitrum-goerli": "0xe546375d50523Ed25Fe0E02E654B8A97C41F02a6",
+    "optimism-goerli": "0xb82E8737e7BA953CB4462561639f32Fd7F0974c4",
+    "fantom-testnet": "0x60c071F0495819a2f2C5A1a1A211BB9695C562fe",
+    "ethereum": "0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9",
+    "bsc": "0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9",
+    "avalanche": "0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9",
+    "polygon": "0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9",
+    "arbitrum": "0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9",
+    "optimism": "0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9",
+    "fantom": "0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9"
+  },
   "sgeth": {
     "goerli": "0xCf1F9cD3789Fc6296f4abB11dc460067Ae1a2673",
     "bsc-testnet": null,
