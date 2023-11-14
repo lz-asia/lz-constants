@@ -23,12 +23,12 @@
     "arbitrum-goerli": "0xb1b2eeF380f21747944f46d28f683cD1FBB4d03c",
     "optimism-goerli": "0xb1b2eeF380f21747944f46d28f683cD1FBB4d03c",
     "fantom-testnet": null,
-    "ethereum": "0x150f94B44927F078737562f0fcF3C95c01Cc2376",
+    "ethereum": "0xb1b2eeF380f21747944f46d28f683cD1FBB4d03c",
     "bsc": null,
     "avalanche": null,
     "polygon": null,
-    "arbitrum": "0xbf22f0f184bCcbeA268dF387a49fF5238dD23E40",
-    "optimism": "0xB49c4e680174E331CB0A7fF3Ab58afC9738d5F8b",
+    "arbitrum": "0xb1b2eeF380f21747944f46d28f683cD1FBB4d03c",
+    "optimism": "0xb1b2eeF380f21747944f46d28f683cD1FBB4d03c",
     "fantom": null
   },
   "factory": {
